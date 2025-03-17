@@ -1,7 +1,7 @@
 
 # 
 
-# Word Omitter
+# [Word Omitter](https://github.com/mathinraj/HackerRank-React-Challenges/tree/main/Word%20Omitter)
 
 You are tasked with creating a simple React application called "Word Omitter" that dynamically filters out specific words from the user input in real-time. The application requirements are detailed below, and the finished application must pass all of the unit tests.
 

@@ -1,7 +1,7 @@
 
 # 
 
-# Patient Medical Records
+# [Patient Medical Records](https://github.com/mathinraj/HackerRank-React-Challenges/tree/main/Patient%20Medical%20Records)
 
 In this challenge, you will create a React application called "Patient Medical Records" that allows users to view and cycle through patients' medical records. The application requirements are outlined below, and your finished implementation must pass all provided unit tests.
 

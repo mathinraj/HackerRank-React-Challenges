@@ -1,7 +1,7 @@
 
 # 
 
-# Slideshow
+# [Slideshow](https://github.com/mathinraj/HackerRank-React-Challenges/tree/main/Slideshow)
 
 You are tasked with creating a simple React application called "Basic Slideshow" that displays a series of slides and allows users to navigate through them. The application requirements are detailed below, and the finished application must pass all of the unit tests.
 
